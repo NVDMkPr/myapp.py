@@ -25,4 +25,4 @@ os.system('clear')
 _openFile = open("SDT.txt","r")
   #
   #Read phone numbers from list file
-  println(_openFile.readlines(0))
+  print(_openFile.readlines(0))
