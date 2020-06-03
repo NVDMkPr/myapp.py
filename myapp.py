@@ -22,7 +22,10 @@ from bs4 import BeautifulSoup
 #Clear Text On Terminal
 os.system('clear')
 #-----
-#Open file phone numbers
-_openFile = open("SDT.txt","r")
-#Get phone numbers from list file
-_phoneNum = _openFile.readlines())
+#Function open file and get phone numbers
+def _getPhoneNum():
+  _openFile = open("SDT.txt","r")
+  #if phone number lenght greater than 11 is not return
+  return _openFile.readlines(11)
+#-----
+
