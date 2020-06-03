@@ -1,3 +1,4 @@
+#All custom name variables will use char "_" in first digit
 #Imports project list
 import asyncio
 import logging
@@ -23,6 +24,5 @@ os.system('clear')
 #-----
 #Open file phone numbers
 _openFile = open("SDT.txt","r")
-#
-#Read phone numbers from list file
-print(_openFile.readlines())
+#Get phone numbers from list file
+_phoneNum = _openFile.readlines())
