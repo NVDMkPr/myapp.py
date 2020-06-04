@@ -1,4 +1,6 @@
-Automation For DogeCoin Click Bot.
-You need a phone number to use this script.
+Dogecoin Autoclick Bot 😃😄
+Chỉnh Tài Khoản Trong Phần SDT.txt
 
-All issue please send for me!
+Tất Cả Lỗi Hoặc Ý Kiến Hãy Gửi Về Đây
+https://github.com/NVDMkPr/myapp.py/issues
+
